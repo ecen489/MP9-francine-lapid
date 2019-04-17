@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556034961680",
+    "firebase_url": "https://mp9part1final.firebaseio.com",
+    "project_id": "mp9part1final",
+    "storage_bucket": "mp9part1final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556034961680:android:fd2e1bf6e8a2d7ae",
+        "android_client_info": {
+          "package_name": "com.example.mp9part1final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556034961680-u2bc844cgdjerks8ncb3qaiphlnbp4iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSGzc6UEyORHrSpr2xmkFa3gniJ0vVBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556034961680-u2bc844cgdjerks8ncb3qaiphlnbp4iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
